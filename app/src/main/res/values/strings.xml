@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AI Music Player</string>
+    <string name="voice_enabled_mode_on">Voice Enabled Mode - ON</string>
+    <string name="todo">TODO</string>
+    <string name="todo1">TODO</string>
+    <string name="todo2">TODO</string>
+    <string name="todo3">TODO</string>
+</resources>
